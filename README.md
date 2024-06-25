@@ -13,11 +13,7 @@ GUI Framework: Swing
 IDE: NetBeans
 Database: MySQL
 Installation
-Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/airline-management-system.git
 Set Up MySQL Database:
 
 Create a new database named airline_management.
